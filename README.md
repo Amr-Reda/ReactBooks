@@ -6,7 +6,7 @@ this app for books in which you can search for books and add to yours in differe
 
 1. download the files ,Click`"Clone in Desktop" / "Download ZIP"`.
 2. extract the files.
-3. Change to root directory:reactnd-project-myreads-starter
+3. Change to root directory: ReactBooks-master
 4. Install dependencies: npm install
 5. Start the app: npm start(will open the browser on http://localhost:3000.)
 
